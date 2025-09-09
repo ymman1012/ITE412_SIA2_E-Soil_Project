@@ -5,10 +5,10 @@ The project aims to solve the problem of inefficient fertilizer use in Philippin
 
 ## 2. Proposed Scope  
 The system will include the following module:  
-- *Soil Data Collection Module* – Log in / Sign up for tourists.  
-- *Data Analysis Module* – Tourists can search destinations and track locations.  
-- *User Interface Module* – Tourists can submit feedback about their experience.  
-- *Data Storage & Tracking Module* – Tourism officers can add, edit, or delete events.  
+- *Soil Data Collection Module* – IoT sensors gather soil moisture, pH, temperature, and nutrient levels.
+- *Data Analysis Module* – AI algorithms process soil data to generate fertilizer recommendations. 
+- *User Interface Module* – Mobile and web applications display real-time soil health, trends, and advice.
+- *Data Storage & Tracking Module* – Stores historical soil data for trend analysis and decision-making. 
 
 ## 3. Stakeholders  
 - *Farmers* – Primary users who will rely on the system for fertilizer management and soil monitoring. 
